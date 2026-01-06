@@ -221,18 +221,17 @@ PALL
 URA
 UGA
 CPER
-CATL
-HOGS
+COW
+PIGS
 SOYB
 WEAT
 DBC
 IEMG
-EUE
-C6E
+VGK
 FEZ
-E40
+EWQ
 DAX
-ISF
+EWU
 FXI
 EEM
 EWJ
@@ -348,8 +347,8 @@ SUBSECTOR_ALL.update(SUBSECTOR_RIGHT)
 # NEW: Macro Assets Map (Requested)
 # ===========================
 MACRO_ASSETS = {
-    "Commodities": ["GLD","SLV","UNG","USO","DBA","CORN","DBB","PALL","URA","UGA","CPER","CATL","HOGS","SOYB","WEAT","DBC"],
-    "Foreign Markets": ["IEMG","EUE","C6E","FEZ","E40","DAX","ISF","FXI","EEM","EWJ","EWU","EWZ","EWG","EWT","EWH","EWI","EWW","PIN","IDX","EWY","EWA","EWM","EWS","EWC","EWP","EZA","EWL"],
+    "Commodities": ["GLD","SLV","UNG","USO","DBA","CORN","DBB","PALL","URA","UGA","CPER","COW","PIGZ","SOYB","WEAT","DBC"],
+    "Foreign Markets": ["IEMG","VGK","FEZ","EWQ","DAX","EWU","FXI","EEM","EWJ","EWU","EWZ","EWG","EWT","EWH","EWI","EWW","PIN","IDX","EWY","EWA","EWM","EWS","EWC","EWP","EZA","EWL"],
     "Currencies": ["UUP","FXE","FXY","FXB","FXA","FXF","FXC"],
     "Crypto": ["IBIT","ETHA","XRP","SOLZ","GLNK"],
     "Treasuries / Bonds": ["TLT","BND","SHY","IEF","SGOV","IEI","TLH","AGG","MUB","GOVT","IGSB","USHY","IGIB"],
